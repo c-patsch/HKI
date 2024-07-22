@@ -6,22 +6,8 @@ We provide the dataset under the following link:
 
 The dataset has the following structure:
 
--synth_real
- -feats
-  -i3d
-   -real
-   -synth
-  -s3d
-   -real
-   -synth
- -gt
-  -real
-  -sytnh
- -splits
- -vids
-  -real
-  -synth
- -mapping.txt
+![image info](images/data_structure.png)
+ 
  
 The feats folder contains the synthetic and real features of the respective backbone models I3D and S3D.
 The gt folder contains the ground truth for the synthetic and real videos, where each line in the respective .txt file indicates the annotation for a frame within the video.
