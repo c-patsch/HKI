@@ -34,14 +34,16 @@ The vids folder contains all of the synthetic and real videos.
 The splits file contains all the necessary splits to keep the evaluation the same with respect to the results of our paper. The test split remains constant throughout the varying experiments.  
 The mapping.txt file maps the label names to the respective line numbers.
 
-
-
-
 # Citation
+
+
+```
 @inproceedings{patsch2024sim,
   title={Sim-to-Real Domain Shift in Online Action Detection},
   author={Patsch, Constantin and Torjmene, Wael and Zakour, Marsil and Wu, Yuankai and Salihu, Driton and Steinbach, Eckehard},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2024}
 }
+```
+
 
