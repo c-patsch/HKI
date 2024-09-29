@@ -38,5 +38,10 @@ The mapping.txt file maps the label names to the respective line numbers.
 
 
 # Citation
-
+@inproceedings{patsch2024sim,
+  title={Sim-to-Real Domain Shift in Online Action Detection},
+  author={Patsch, Constantin and Torjmene, Wael and Zakour, Marsil and Wu, Yuankai and Salihu, Driton and Steinbach, Eckehard},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024}
+}
 
